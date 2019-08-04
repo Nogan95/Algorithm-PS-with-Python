@@ -6,7 +6,7 @@
 알고리즘 문제를 파이썬으로 해결하는 개인 저장소입니다.
 
 
-현재는 [알고리즘 문제 해결 전략]https://book.algospot.com/index.html 이라는 책에 수록된 문제를 풀어보고 있습니다.
+현재는 [알고리즘 문제 해결 전략](https://book.algospot.com/index.html) 이라는 책에 수록된 문제를 풀어보고 있습니다.
 ![종만북](https://book.algospot.com/static/img/cover1-small.png)
 
 ## 📝 알고리즘 문제 해결 전략
