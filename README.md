@@ -14,7 +14,7 @@
   
 |장 번호|문제 이름|알고스팟 문제 ID|완료|
 |---|:---:|---:|---:|
-|1장|록 페스티벌|FESTIVAL|<ul><li>- [ ] </li></ul>
+|1장|록 페스티벌|FESTIVAL|&check
 |6장|보글 게임|BOGGLE|<ul><li>- [ ] </li></ul>
 |6장|소풍|PICNIC|<ul><li>- [ ] </li></ul>
 |6장|게임판 덮기|BOARDCOVER|<ul><li>- [ ] </li></ul>
