@@ -8,8 +8,8 @@
 
 ## 📝 목록
 
-[1. 알고리즘 문제 해결 전략](https://github.com/Nogan95/Algorithm-PS-with-Python/tree/master/알고리즘 문제해결전략)
+[1. 알고리즘 문제 해결 전략](https://github.com/Nogan95/Algorithm-PS-with-Python/tree/master/알고리즘_문제해결전략)
 
-[2. 삼성 SW 역량 테스트 기출문제](https://github.com/Nogan95/Algorithm-PS-with-Python/tree/master/삼성 SW 역량 테스트 기출문제)
+[2. 삼성 SW 역량 테스트 기출문제](https://github.com/Nogan95/Algorithm-PS-with-Python/tree/master/삼성_SW_역량_테스트_기출문제)
 
-[3. Google Codejam & Kickstart](https://github.com/Nogan95/Algorithm-PS-with-Python/tree/master/Google Codejam & Kickstart)
+[3. Google Codejam & Kickstart](https://github.com/Nogan95/Algorithm-PS-with-Python/tree/master/Google_Codejam_&_Kickstart)
