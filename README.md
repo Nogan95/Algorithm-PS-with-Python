@@ -6,6 +6,7 @@
 알고리즘 문제를 파이썬으로 풀어보는 개인 코드 저장소입니다.
 
 세부 목록에서 완료한 문제의 제목을 누르면 풀이를 적어놓은 [개인 블로그](https://nogan.tistory.com/)로 이동합니다.
+
 소스코드는 [Github Gist](https://gist.github.com/Nogan95)로 관리합니다.
 
 ## 📝 목록
